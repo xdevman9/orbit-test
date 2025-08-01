@@ -1,20 +1,15 @@
-# Ultraviolet Template
-A template for creating your own Ultraviolet proxy. It has all the files for you to get up and running right away.
+# 🪐 orbit
 
-### Usage
-This repository can be hosted on any static host, such as GitHub Pages, Vercel, Netlify, etc. The one thing you might need to replace is a [**Bare server**](https://github.com/tomphttp/bare-server-node). This is a Node.js (or other language) server that must be hosted for the proxy to work. It is not deployable on static server hostings. By default, this repository uses https://tomp.app.
+**orbit** is your all-in-one platform for cloud gaming, movie streaming, virtual machines, and secure browsing — all optimized for school, travel, and speed.
 
-To change the Bare server, clone the repository and edit the `uv/uv.config.js` file. There is a property marked by a comment that can be changed to your Bare server if desired.
+## 🚀 features:
+- 🎮 cloud gaming service  
+- 🎬 movie & tv streaming platform
+- 🖥️ chromium vm  
+- 🔒 proxy powered by uv & scramjet  
+- 🕵️‍♂️ cloaking & more settings
+- 🎨 personalization & themes  
+- 🔑 sign-in + welcome experience 
 
-There have been comments placed throughout the code to attempt to help people who are new to coding better understand the inner workings of a proxy website and how they function.
-
-### Credits
-This repository uses Ultraviolet as the main proxy, which was created by Titanium Network. The frontend design was also inspired by their official demo page.
-
-I wrote the styles and JavaScript for the frontend.
-
-The AGPL-3 license is used on this repository. This means you must disclose the original source when making changes or redistributing. The best way to do this is not to remove or change the footer on the website. It's good to provide credit to the people who provided the software for you.
-
-
-# Fork this repo and edit it the way you like
-
+## ⚠️ This project is not done yet!
+- Orbit is not finished yet so expect any issues or bugs while using it!
